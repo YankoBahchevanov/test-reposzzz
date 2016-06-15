@@ -1,5 +1,1 @@
 GG WP!
-
-name = Peter
-size = 100
-email = peter@offline.bg
